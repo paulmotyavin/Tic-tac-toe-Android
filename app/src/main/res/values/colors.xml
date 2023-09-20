@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#EDF6F9</color>
+
+    <color name="background">#83C5BE</color>
+    <color name="buttons">#006D77</color>
+    <color name="hint">#006D77</color>
+    <color name="text">#FFDDD2</color>
+    <color name="card">#00b4d8</color>
+    <color name="cardArea">#006D77</color>
+    <color name="textStat">#FFDDD2</color>
+
+    <color name="lavender1">#660708</color>
+
+    <color name="background1">#161A1D</color>
+    <color name="buttons1">#BA181B</color>
+    <color name="hint1">#E5383B</color>
+    <color name="text1">#D3D3D3</color>
+    <color name="card1">#660708</color>
+    <color name="cardArea1">#B1A7A6</color>
+    <color name="textStat1">#F5F3F4</color>
+</resources>

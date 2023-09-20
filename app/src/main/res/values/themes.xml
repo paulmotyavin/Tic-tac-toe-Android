@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Themes" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/background1</item>
+        <item name="colorPrimaryVariant">@color/buttons1</item>
+        <item name="android:windowBackground">@color/background1</item>
+        <item name="android:textColor">@color/text1</item>
+        <item name="android:textColorHint">@color/text1</item>
+
+    </style>
+
+    <style name="backgroundTheme" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="android:background">@drawable/bgdark</item>
+    </style>
+
+    <style name="mainCard" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="android:backgroundTint">@color/card1</item>
+    </style>
+
+    <style name="cardArea" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="android:backgroundTint">@color/cardArea1</item>
+    </style>
+
+    <style name="statistics" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="android:textColor">@color/textStat1</item>
+        <item name="colorPrimaryVariant">@color/buttons1</item>
+    </style>
+
+    <style name="backgroundStat" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="android:background">@color/hint1</item>
+    </style>
+</resources>
